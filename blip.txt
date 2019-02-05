@@ -1,0 +1,2 @@
+What is a blip anyway.
+It is nothing.  It just stupid text to learn git.
